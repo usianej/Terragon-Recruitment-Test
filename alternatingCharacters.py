@@ -1,4 +1,4 @@
-Def character_Deletions(s)
+Def character_Deletions(s):
 S= ['A','A','B','A','A','B']
  If s.count(s[0])== Len(s)
  return Len(s)-1
